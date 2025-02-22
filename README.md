@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=MA-Yousuf&label=Profile%20Views&color=0e75b6&style=flat)
-
 # Hi there, I'm Md. Abu Yousuf! 👋
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-abu-yousuf-67385a21b/) 
